@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "montage-eval"
+version = "0.1.0"
+description = "Reproducible harness for a negative result on query-agnostic memory compression"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[tool.setuptools]
+packages = ["montage_eval"]
