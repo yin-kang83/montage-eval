@@ -1,5 +1,8 @@
 # montage-eval
 
+> DOI: [10.5281/zenodo.24295153](https://doi.org/10.5281/zenodo.24295153)
+
+
 A small, reproducible harness for the **negative result**:
 
 > Three query-agnostic selection heuristics do not outperform tail truncation under a fixed memory budget.
